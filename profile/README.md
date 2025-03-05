@@ -1,4 +1,4 @@
-🍪 Cookie Clicker Game: The Ultimate Idle Clicker Experience! 🚀
+# 🍪 Cookie Clicker Game: The Ultimate Idle Clicker Experience! 🚀
 
 [![image_fx_ (3)](https://github.com/user-attachments/assets/04f6366d-881a-4672-8e89-f14ab462821e)](https://cookieclicker.ee/)
 
