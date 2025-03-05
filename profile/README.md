@@ -22,7 +22,7 @@ Cookie Clicker is an incremental game where you start by clicking a giant cookie
 🌍 Play Anywhere – No downloads needed, just a browser and a passion for cookies!
 
 ---
-## 🍪 How to Play Cookie Clicker
+## 🍪 How to Play [Cookie Clicker](https://cookieclicker.app)
 
 Getting started is easy! Follow these simple steps:
 
